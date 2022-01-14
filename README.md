@@ -1,4 +1,4 @@
-# testing_app
+# Food delivery app UI
 
 A new Flutter project.
 
