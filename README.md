@@ -10,7 +10,6 @@ A new Flutter project with minimal functionality.
 
 <span>
 <img src="https://user-images.githubusercontent.com/70979306/149567698-92dfc584-b105-458a-8be0-886478057881.jpg" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/70979306/149567751-45299b9e-4c68-417d-86b7-e57b0b209264.jpg" width="30%" height="30%">
 <img src="https://user-images.githubusercontent.com/70979306/149567768-e16802a5-67bf-4183-a109-3955f4052092.jpg" width="30%" height="30%">
 <img src="https://user-images.githubusercontent.com/70979306/149567784-2f58a6f2-b74e-442c-bc35-33f57b902bb2.jpg" width="30%" height="30%">
 </span>
