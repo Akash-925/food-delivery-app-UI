@@ -1,13 +1,12 @@
-# Food delivery app UI
+## Food delivery app UI
 
-A new Flutter project with minimal functionality.
+ - This app has a homepage containing different lists of items and a description page for the items which are listed.
+ - The homepage contains three lists and a search bar that are functional and a cart button, home button, and navigation button which are currently non-functional.
+ - App theme is dynamic and adapts itself with the system theme i.e. light and dark.
+<br>
 
-
-
-## Light Theme
-
-
-
+### - Light Mode
+<br>
 <span>
   <div>
     <img src="https://user-images.githubusercontent.com/70979306/149567698-92dfc584-b105-458a-8be0-886478057881.jpg" width="35%" height="35%">
@@ -18,12 +17,10 @@ A new Flutter project with minimal functionality.
     <img src="https://user-images.githubusercontent.com/70979306/149567784-2f58a6f2-b74e-442c-bc35-33f57b902bb2.jpg" width="35%" height="35%">
     </div>
   </span>
+<br>
 
-
-## Dark Theme
-
-
-
+### - Dark Mode
+<br>
 <span>
   <div>
     <img src="https://user-images.githubusercontent.com/70979306/149567840-8fc8315a-266f-421f-a965-12e026e12010.jpg" width="35%" height="35%">
